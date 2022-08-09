@@ -1,0 +1,1 @@
+# ubi8-jre17-minimal
